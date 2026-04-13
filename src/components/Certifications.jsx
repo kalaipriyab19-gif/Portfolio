@@ -7,7 +7,7 @@ export default function Certifications() {
   ];
 
   return (
-    <section className="max-w-6xl mx-auto px-6 py-16 text-left">
+    <section className="max-w-6xl mx-auto px-6 py-12 text-left">
       <h2 className="text-3xl font-semibold mb-8">Certifications</h2>
 
       <div className="space-y-4">
