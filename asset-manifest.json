@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.31f6d805.css",
-    "main.js": "/Portfolio/static/js/main.6c4a918b.js",
+    "main.js": "/Portfolio/static/js/main.3c3f8623.js",
     "static/media/Kalaipriya B.jpeg": "/Portfolio/static/media/Kalaipriya B.f8e4ae90a606e896cc9e.jpeg",
     "static/media/Kalaipriya Resume 2026 - Updated.pdf": "/Portfolio/static/media/Kalaipriya Resume 2026 - Updated.4edce820eeb99c6196d7.pdf",
     "index.html": "/Portfolio/index.html",
     "main.31f6d805.css.map": "/Portfolio/static/css/main.31f6d805.css.map",
-    "main.6c4a918b.js.map": "/Portfolio/static/js/main.6c4a918b.js.map"
+    "main.3c3f8623.js.map": "/Portfolio/static/js/main.3c3f8623.js.map"
   },
   "entrypoints": [
     "static/css/main.31f6d805.css",
-    "static/js/main.6c4a918b.js"
+    "static/js/main.3c3f8623.js"
   ]
 }
