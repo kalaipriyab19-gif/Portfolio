@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.31f6d805.css",
-    "main.js": "/portfolio/static/js/main.9cdbf625.js",
-    "static/media/Kalaipriya B.jpeg": "/portfolio/static/media/Kalaipriya B.f8e4ae90a606e896cc9e.jpeg",
-    "static/media/Kalaipriya Resume 2026 - Updated.pdf": "/portfolio/static/media/Kalaipriya Resume 2026 - Updated.4edce820eeb99c6196d7.pdf",
-    "index.html": "/portfolio/index.html",
-    "main.31f6d805.css.map": "/portfolio/static/css/main.31f6d805.css.map",
-    "main.9cdbf625.js.map": "/portfolio/static/js/main.9cdbf625.js.map"
+    "main.css": "/Portfolio/static/css/main.31f6d805.css",
+    "main.js": "/Portfolio/static/js/main.2fea0739.js",
+    "static/media/Kalaipriya B.jpeg": "/Portfolio/static/media/Kalaipriya B.f8e4ae90a606e896cc9e.jpeg",
+    "static/media/Kalaipriya Resume 2026 - Updated.pdf": "/Portfolio/static/media/Kalaipriya Resume 2026 - Updated.4edce820eeb99c6196d7.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.31f6d805.css.map": "/Portfolio/static/css/main.31f6d805.css.map",
+    "main.2fea0739.js.map": "/Portfolio/static/js/main.2fea0739.js.map"
   },
   "entrypoints": [
     "static/css/main.31f6d805.css",
-    "static/js/main.9cdbf625.js"
+    "static/js/main.2fea0739.js"
   ]
 }
