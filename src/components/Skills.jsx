@@ -2,7 +2,7 @@ export default function Skills() {
   const skills = [
     "Azure", "AWS", "Terraform", "Azure DevOps",
     "Docker", "Kubernetes", "Linux", "Git",
-    "Jenkins", "Ansible", "Monitoring & Logging", "CI/CD Pipelines",
+    "Jenkins", "Ansible", "Monitoring & Logging", "CI/CD Pipelines"
   ];
 
   return (

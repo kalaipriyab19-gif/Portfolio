@@ -16,7 +16,7 @@ export default function Projects() {
   Designed dashboards for churn scoring, customer segmentation, and retention recommendations.<br /><br />
 
   <b>3. React-azure-ci-cd-Project</b><br />
-    I developed and deployed a simple application to Azure App Service using Azure DevOps, implementing a blue-green deployment strategy to ensure zero downtime.
+    I developed and deployed a simple application to Azure App Service using Azure DevOps, implementing a blue-green deployment strategy to ensure zero downtime.<br /><br />
 
   <b>4. Azure Infrastructure Provisioning using Terraform</b><br />
    Designed and implemented Infrastructure as Code (IaC) using Terraform to provision and manage Azure resources including Resource Group, Virtual Network, Subnet, Network Security Group, and Linux Virtual Machine.
